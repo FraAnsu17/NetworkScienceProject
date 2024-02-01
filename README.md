@@ -1,4 +1,4 @@
-# NetworkScienceProjecy
+# NetworkScienceProject
 Network Science Project - Ansuini Francesco, Del Savio Anna, Tomaselli Francesco
 
 This is a project for the course Network Science, held by Tomaso Erseghe at the University of Padua.
