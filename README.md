@@ -10,3 +10,5 @@ In this repository there is:
 - An R File "AdjacencyMatrixConverter.R" which was used to create the adjacency matrix;
 - A .ipynb notebook "NetworkScienceProject.ipynb" used to carry out community detection using louvain algorithm
 - Another R File "Utils.R" used to carry out data transformations and various kinds of data manipulation 
+
+Also, some steps in the data processing/pre-processing were carried out through the use of PowerQuery in Microsoft Excel
